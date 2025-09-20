@@ -4,4 +4,4 @@
 
 - **Faculdade:** Fatec Ogari de Castro Pacheco (Itapira)
 - **Curso:** Desenvolvimento de Software Multiplataforma
-- **Aluno:** [@LKScripts](https://github.com/LKScripts)
+- **Aluno:** Lucas da Silva Costa Simões - Link para o Github: [@LKScripts](https://github.com/LKScripts)
